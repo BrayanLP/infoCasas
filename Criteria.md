@@ -16,7 +16,6 @@
 
 ## Negative Points
 
-- No control over server-side rendering (e.g. not using getInitialProps)
 - No componentization
 - Inline styles
 - No control over re-rendering (e.g. not using id for a list)
