@@ -28,7 +28,7 @@ The interactions should not refresh the page.
 
 ## Technology requirements
 
-[Next.js](https://nextjs.org/) is a mandatory requirement. Apart from this, you can use any library.
+[React.js](https://reactjs.org/) is a mandatory requirement. Apart from this, you can use any library.
 
 ## Code requirements
 
