@@ -4,7 +4,7 @@
 
 - The application must start
 - The application must be divided into components
-- The application must use [Next.js](https://nextjs.org/)
+- The application must use [React.js](https://reactjs.org/)
 - The list and details page must cover all [use cases](README.md#use-cases) with minor issues
 
 ## Nice to Have
