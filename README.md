@@ -22,6 +22,7 @@ npm run db
 
 ### Ruta deployment:
 
+https://info-casas.vercel.app/
 
 ### Requerimientos
 
