@@ -37,7 +37,7 @@ const Index = () => {
   const [sort, setSort] = useState(false);
   const [search, setSearch] = useState("");
   const [complete, setComplete] = useState([]);
-  const API = "http://localhost:3004";
+  const API = process.env.NEXT_PUBLIC_API;
 
   const getData = async () => {
     const response = await fetch(`${API}/posts?completed=false`);
